@@ -1,4 +1,4 @@
 # Time-Value
 
 
-https://hub-binder.mybinder.ovh/user/csffsc-code-time-value-2ykwaqii/notebooks/Interactive%20iPywidgets.ipynb
+https://mybinder.org/v2/gh/csffsc-code/Time-Value/master?filepath=Interactive%20iPywidgets.ipynb
